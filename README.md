@@ -1,6 +1,6 @@
 # ComRoPE
 
-Official Implementation of the paper **ComRoPE: Scalable and Robust Rotary Position Embedding Parameterized by Trainable Commuting Angle Matrices** (coming soon).
+Official Implementation of the paper [**ComRoPE: Scalable and Robust Rotary Position Embedding Parameterized by Trainable Commuting Angle Matrices**](https://arxiv.org/pdf/2506.03737).
 
 # Introduction
 
